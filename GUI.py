@@ -1,6 +1,8 @@
 import tkinter as tk
 from game.GameEngine import GameEngine
 
+###############################
+
 class ConnectionsGUI:
 
     def __init__(self, root):
